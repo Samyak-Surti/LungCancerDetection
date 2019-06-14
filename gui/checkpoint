@@ -1,0 +1,2 @@
+model_checkpoint_path: "Lung_Malignancy_Model"
+all_model_checkpoint_paths: "Lung_Malignancy_Model"

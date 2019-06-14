@@ -1,0 +1,10 @@
+clostridium
+corynebacterium
+staphlococcus
+listeria
+escherichia
+neisseria
+moraxella
+bacillus
+streptococcus
+pseudomonas
