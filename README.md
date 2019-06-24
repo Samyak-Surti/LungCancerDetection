@@ -12,4 +12,11 @@ A CT scan scans for lung nodules (a small mass present in the lungs). There are 
 3. Metastatic - Nodules that are a sign of cancer that has spread from other parts of the body
 ![picture alt](https://prod-images.static.radiopaedia.org/images/283981/aa3c0ceb1f960fda8dc41876e1d6c4_gallery.jpg)
 
+## Methodology ##
+Our solution to our research problem had three main components:
+1. Apply convolutional neural networks (CNNs) to the problem.
+1. Train two models:
+  1. Pneumo_net: Create a unique network that is specifically catered to solving our problem. It is a relatively simplistic   model.
+  2. Inception: Retrain the last layer of Google’s “Inception network” to classify CT scan images. 
+3. Construct CNNs using Google’s Tensorflow Deep Learning Library.
 
