@@ -5,18 +5,19 @@ Lung cancer is a life-threatening disease that affects over 225,000 Americans pe
 
 ## Background Information ##
 A CT scan scans for lung nodules (a small mass present in the lungs). There are several types:
-Benign - Harmless nodules that occur as a result of calcification, a hamartoma, or papilloma.
+
+1. Benign - Harmless nodules that occur as a result of calcification, a hamartoma, or papilloma.
 ![picture alt](https://img.medscapestatic.com/pi/meds/ckb/44/17144tn.jpg)
-Malignant - Nodules that exhibit cancer-like growth, and will continue growing larger, having the potential to spread cancer around the body
+2. Malignant - Nodules that exhibit cancer-like growth, and will continue growing larger, having the potential to spread cancer around the body
 ![picture alt](http://www.stritch.luc.edu/lumen/MedEd/Radio/curriculum/Harrisons/Oncology/Adenoca_lung1.jpg)
-Metastatic - Nodules that are a sign of cancer that has spread from other parts of the body
+3. Metastatic - Nodules that are a sign of cancer that has spread from other parts of the body
 ![picture alt](https://prod-images.static.radiopaedia.org/images/283981/aa3c0ceb1f960fda8dc41876e1d6c4_gallery.jpg)
 
 ## Methodology ##
 Our solution to our research problem had three main components:
 1. Apply convolutional neural networks (CNNs) to the problem.
 2. Train two models:
-  1. Pneumo_net: Create a unique network that is specifically catered to solving our problem. It is a relatively simplistic   model.
+  1. Pneumo_net: Create a unique network that is specifically catered to solving our problem. It is a relatively simplistic model. 
   2. Inception: Retrain the last layer of Google’s “Inception network” to classify CT scan images. 
 3. Construct CNNs using Google’s Tensorflow Deep Learning Library.
 
