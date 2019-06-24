@@ -6,9 +6,10 @@ Lung cancer is a life-threatening disease that affects over 225,000 Americans pe
 ## Background Information ##
 A CT scan scans for lung nodules (a small mass present in the lungs). There are several types:
 1. Benign - Harmless nodules that occur as a result of calcification, a hamartoma, or papilloma.
-![picture alt](https://img.medscapestatic.com/pi/meds/ckb/44/17144tn.jpg "Title is optional")
+![picture alt](https://img.medscapestatic.com/pi/meds/ckb/44/17144tn.jpg)
 2. Malignant - Nodules that exhibit cancer-like growth, and will continue growing larger, having the potential to spread cancer around the body
+![picture alt](http://www.stritch.luc.edu/lumen/MedEd/Radio/curriculum/Harrisons/Oncology/Adenoca_lung1.jpg)
 3. Metastatic - Nodules that are a sign of cancer that has spread from other parts of the body
-
+![picture alt](https://prod-images.static.radiopaedia.org/images/283981/aa3c0ceb1f960fda8dc41876e1d6c4_gallery.jpg)
 
 
